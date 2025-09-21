@@ -1,0 +1,7 @@
+.cardsHover:hover {
+    border: 1px solid black !important;
+}
+
+.cardsHover{
+    cursor:pointer;
+}
